@@ -19,7 +19,21 @@ This project was implemented based on the following professional design:
 ## Getting Started
 Follow these steps to set up the project locally:
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/TetiankaSh/landing-page_TetSh.git](https://github.com/TetiankaSh/landing-page_TetSh.git)
-   cd landing-page_TetSh
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/TetiankaSh/landing-page_TetSh.git
+cd landing-page_TetSh
+```
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Run the project locally
+
+```bash
+npm start
+```
