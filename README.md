@@ -1,4 +1,16 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Bang & Olufsen Landing Page 🎧
+
+A simple landing page concept for Bang & Olufsen, focusing on high-end audio products and minimalist design. This project demonstrates clean HTML structure and advanced SCSS styling techniques.
+
+🔗 Live Demo
+Experience the design here:
+
+👉 **[LIVE DEMO LINK](https://tetiankash.github.io/landing-page_TetSh/)**
+
+🛠️ Technical Breakdown
+
+HTML5: Semantic markup for accessibility and SEO.
+
+SCSS (Sass): Organized into a modular architecture (15+ files) using variables for colors, spacing, and animations.
+
+BEM Methodology: Used for clear, maintainable, and scalable CSS class naming.
